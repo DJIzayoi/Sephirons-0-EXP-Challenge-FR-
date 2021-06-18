@@ -1,0 +1,12 @@
+Hohes Gras:
+- Pidgey max. 3
+- Pidgeotto max. 6
+- Rattata max. 3
+- Oddish max. 6
+- Mankey max. 6
+- Caterpie max. 4
+- Butterfree max. 6
+- Weedle max. 4
+- Beedrill max. 6
+- Ralts max. 5
+- Shroomish max. 6
