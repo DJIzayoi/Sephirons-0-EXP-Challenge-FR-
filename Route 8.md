@@ -1,0 +1,12 @@
+Hohes Gras:
+- Pidgey max. 18
+- Pidgeotto max. 20
+- Meowth max. 20
+- Growlithe max. 16
+- Nuzleaf max. 19
+- Furret max. 19
+- Arbok max. 19
+- Beautifly max. 19
+- Dustox max. 19
+- Scyther max. 20
+- Arcanine max. 20
