@@ -1,0 +1,12 @@
+Hohes Gras:
+- Nuzleaf max. 13
+- Pidgey max. 13
+- Pidgeotto max. 16
+- Oddish max. 15
+- Gloom max. 16
+- Meowth max. 12
+- Persian max. 14
+- Snubbul max. 15
+- Phanpy max. 15
+- Tauros max. 16
+- Loudred max. 16
