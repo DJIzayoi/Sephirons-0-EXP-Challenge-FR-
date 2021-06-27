@@ -1,1 +1,13 @@
-
+Hohes Gras:
+- Ekans max. 15
+- Arbok max. 17
+- Spearow max. 15
+- Fearow max. 17
+- Kecleon max. 15
+- Flaaffy max. 15
+- Houndour max. 15
+- Wingull max. 15
+- Phanpy max. 15
+- Hypno max. 17
+- Miltank max. 15
+- Mawile max. 17
