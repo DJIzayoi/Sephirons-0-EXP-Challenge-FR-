@@ -1,0 +1,12 @@
+Hohes Gras:
+- Spearow max. 16
+- Fearow max. 17
+- Rattata max. 17
+- Raticate max. 17
+- Shroomish max. 15
+- Ekans max. 15
+- Arbok max. 15
+- Roselia max. 16
+- Makuhita max. 16
+- Tyrogue max. 17
+- Masquerain max. 17
