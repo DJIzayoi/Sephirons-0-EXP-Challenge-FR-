@@ -19,6 +19,7 @@ Den IPS-Patch downloaden. Im Internet nach einer Fire Red Rom suchen. Diese MUSS
 
 - Ab der 2. Arena sind im Mart die X-Items zu kaufen. Nutze die für die Arenen
 - Die Level der zu fangenden Pokemon auf den Routen ist gleich. Je höher die Level, desto stärker ist das Pokemon. 
+- Die Arenaleiter und Rivalen besitzen einige competitive Items. Nutze Raub, um sie dir zu schnappen.
 - Denk an die legendären Vögel
 
 Großes Dankeschön an die Community von pokemoncommunity.com, bei denen man zahlreiche Sachen über Rom Hacken lernt. Besucht die Seite, wenn ihr euch damit beschäftigen wollt.
