@@ -10,7 +10,6 @@ Den IPS-Patch downloaden. Im Internet nach einer Fire Red Rom suchen. Diese MUSS
 - Die Routen beinhalten andere Pokemon
 - Einige Trainer wurden verändert. Vor allem Arenaleiter und Rivalen sollten Überraschungen beinhalten.
 - Man erhält direkt 99x TMs
-- Evoli entwickelt sich zu Psiana mit einem Sonnenstein und zu Nachtara mit einem Mondstein
 - Wilde Pokemon können Items tragen
 - Attacken-Lehrer bringen die Attacken mehrfach bei
 - X-Items sind günstiger
