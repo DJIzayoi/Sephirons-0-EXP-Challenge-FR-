@@ -1,0 +1,5 @@
+- Diglett max. 20
+- Dugtrio max. 31
+- Sableye max. 18
+- Numel max. 22
+- Pupitar max. 25
