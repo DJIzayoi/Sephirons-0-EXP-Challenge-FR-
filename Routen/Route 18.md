@@ -1,0 +1,12 @@
+Hohes Gras:
+- Ledyba max. 20
+- Ledian max. 25
+- Doduo max. 24
+- Electrike max. 22
+- Manectic max. 27
+- Gulpin max. 26
+- Kirlia max. 25
+- Gardevoir max. 29
+- Rattata max. 22
+- Raticate max. 29
+- Fearow max. 19
