@@ -1,0 +1,11 @@
+Hohes Gras:
+- Fearow max. 22
+- Doduo max. 22
+- Mightyena max. 22
+- Raticate max. 22
+- Swalot max. 22
+- Miltank max. 22
+- Grumpig max. 22
+- Granbull max. 22
+- Nidoking max. 22
+- Bagon max. 22
