@@ -1,0 +1,13 @@
+Hohes Gras:
+- Scyther max. 24
+- Scizor max. 30
+- Venonat max. 24
+- Venomoth max. 27
+- Weepinbell max. 28
+- Victreebel max. 29
+- Drowzee max. 27
+- Hypno max. 27
+- Sunflora max. 27
+- Teddiursa max. 25
+- Ursaring max. 30
+- Vigoroth max. 29
