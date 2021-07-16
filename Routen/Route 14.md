@@ -1,0 +1,12 @@
+Hohes Gras:
+- Pinsir max. 29
+- Natu max. 24
+- Xatu max. 27
+- Pelipper max. 27
+- Forretress max. 27
+- Mightyena max. 29
+- Flaafy max. 30
+- Ampharos max. 30
+- Linoone max. 29
+- Zangoose max. 29
+- Seviper max. 29
