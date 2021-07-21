@@ -2,11 +2,11 @@ Ebene 1:
 Hohes Gras:
 - Rhyhorn max. 25                 
 - Rhydon max. 31
-- Nidoran max. 22                 
+- Nidoran max. 22
+- Nidorina max. 31               
+- Nidorino max. 31                 
 - Exeggcute max. 25             
 - Tropius max. 25                
-- Nidorina max. 31               
-- Nidorino max. 31
 - Slaking max. 31                 
 - Parasect max. 30                
 - Venonant max. 22                
