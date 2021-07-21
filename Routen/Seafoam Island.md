@@ -42,6 +42,7 @@ Ebene 4:
 - Azumarill max. 30
 - Golbat max. 26
 - Crobat max. 30
+
 Surfen:
 - Seel max. 35
 - Horsea max. 30
@@ -59,6 +60,7 @@ Ebene 5:
 - Golduck max. 34
 - Golbat max. 28
 - Crobat max. 30
+
 Surfen:
 - Seel max. 35
 - Horsea max. 30
