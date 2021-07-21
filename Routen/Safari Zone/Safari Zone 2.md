@@ -1,0 +1,12 @@
+Hohes Gras:
+- Nidoran max. 24 
+- Nidorino max. 33
+- Sandshrew max. 26
+- Sandslash max. 33
+- Exeggcute max. 25
+- Shroomish max. 25
+- Paras max. 22
+- Parasect max. 25
+- Heracross max. 32
+- Kanghaskhan max. 25
+- Vibrava max. 30
