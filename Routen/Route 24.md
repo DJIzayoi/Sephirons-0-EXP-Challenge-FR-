@@ -1,0 +1,11 @@
+Hohes Gras:
+- Weedle max. 7
+- Beedrill max. 14
+- Caterpie max. 7
+- Butterfree max. 14
+- Pidgey max. 7
+- Pidgeotto max. 14
+- Oddish max. 13
+- Abra max. 10
+- Kadabra max. 14
+- Mareep max. 14
