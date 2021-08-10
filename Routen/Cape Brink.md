@@ -1,0 +1,12 @@
+Hohes Gras:
+- Wooper max. 32
+- Quagsire max. 38
+- Oddish max. 32
+- Gloom max. 38
+- Vileplume max. 38
+- Kecleon max. 32
+- Meowth max. 31
+- Persian max. 40
+- Psyduck max. 31
+- Golduck max. 40
+- Exploud max. 40
